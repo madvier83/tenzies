@@ -70,7 +70,7 @@ function App() {
   return (
     <>
       {tenzies && <Confetti/>}
-      <div className="text-center flex flex-col mx-auto w-screen md:w-96 h-screen md:h-[90vh] bg-gray-200 rounded-lg items-center justify-center md:mt-6">
+      <div className="text-center flex flex-col mx-auto w-screen md:w-96 h-screen md:h-[90vh] bg-slate-100 rounded-lg items-center justify-center md:mt-6">
 
       {tenzies ? 
         (
